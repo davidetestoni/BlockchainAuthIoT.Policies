@@ -1,0 +1,6 @@
+{
+    "start_time": 1610000000,
+    "expiration": 1630000000,
+    "max_items": 200,
+    "devices": "Sensor_1,Sensor_2"
+}
